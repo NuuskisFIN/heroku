@@ -1,0 +1,20 @@
+{
+  "name": "BackEnd",
+  "version": "1.0.0",
+  "description": "\"# heroku\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NuuskisFIN/heroku.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NuuskisFIN/heroku/issues"
+  },
+  "homepage": "https://github.com/NuuskisFIN/heroku#readme"
+}
